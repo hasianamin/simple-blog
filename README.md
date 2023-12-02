@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Getting Started with The Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).\
+In order to run this project:\
+
+1. Clone the repository\
+2. Run script `npm run serve-json` to run the fake api.
+3. Run script `npm install` to install dependencies uses in the project.
+4. Run script `npm start` to run the project under development mode.
 
 ## Available Scripts
 
